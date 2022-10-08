@@ -1,1 +1,1 @@
-This Project is about how to use vagrant on your personal computer
+I am learning to code without webterminal, so cool
